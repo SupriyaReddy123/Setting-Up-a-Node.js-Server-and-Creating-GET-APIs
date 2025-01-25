@@ -41,7 +41,7 @@ Ensure you have the following installed:
 
 ## Testing APIs
 
-   _Use tools like Postman or cURL to test the APIs._
+   Use tools like Postman or cURL to test the APIs.
 
    Example:
    curl http://localhost:3000/api/test
