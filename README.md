@@ -1,4 +1,4 @@
-# Node.js Server Assignment
+# Setting Up a Node.js Server and Creating GET APIs
 
 This project demonstrates the setup of a Node.js server with Express and the creation of 10 unique GET APIs.
 
